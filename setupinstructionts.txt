@@ -1,3 +1,13 @@
 // setup virtual env
 conda create -n myenv python=3.10 -y
 conda activate myenv
+
+// setup.py packages the project and crates the distributable artifact
+// you can verify by 
+pip list
+
+// Add the distributale 
+pip install -e .
+
+// now check , you will see the artifact when you document_portal
+pip list
