@@ -1,4 +1,4 @@
-# NOTE: THIS IS A SAMPLE README.md, Final version will have updated version
+# NOTE: THIS IS A SAMPLE README.md, Final version will have updated content
 # Document Portal
 
 🚀 **Document Portal** - A comprehensive document processing and retrieval system powered by AI and cloud technologies.
